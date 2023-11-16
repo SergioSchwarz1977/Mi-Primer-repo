@@ -1,0 +1,66 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-image: url(./fondo.jpg);
+
+}
+
+.formulario {
+    width: 400px;
+    padding: 20px;
+    color: rgb(207, 207, 228);
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-size: 20px;
+    font-family: 'Edu TAS Beginner';
+    font-family: 'Nosifer', sans-serif;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+.label {
+    margin-top: 20px;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    border-color: white;
+    font-family: 'Changa', sans-serif;
+    font-family: 'Edu TAS Beginner', cursive;
+
+
+}
+
+.titulo {
+    font-size: 20px;
+    text-align: center;
+}
+
+.input {
+    width: 100%;
+    padding: 10px;
+    color: white;
+
+    font-family: 'Changa', sans-serif;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Nosifer', sans-serif;
+    font-family: 'Ubuntu Condensed', sans-serif;
+
+}
+
+.parrafo {
+    text-align: center;
+    font-size: 15px;
+    color: white;
+}
+
+.boton {
+    width: 100%;
+    height: 30px;
+    background-color: rgba(0, 0, 0, 0.678);
+    color: white;
+    border-color: white;
+}
+.a{
+    color: rgba(255, 255, 255, 0.548);
+    
+}
